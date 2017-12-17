@@ -1,6 +1,5 @@
 file_object = open("bears.dat","r")
 
-
 bearNum = 0
 for line in file_object:
     lineArr = list(line)
